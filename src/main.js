@@ -1,14 +1,15 @@
-// import './styles.css';
-// import $ from 'jquery';
-// import 'bootstrap';
-// import 'bootstrap/dist/css/bootstrap.min.css';
-//
+import './styles.css';
+import $ from 'jquery';
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 //
 // $(document).ready(function() {
 //   $("form#leap-year").submit(function(event) {
 //     event.preventDefault();
-//     var year = parseInt($("input#year").val());
-//     var result = leapYear(year);
+//     var year = parseInt($("input#age").val());
+//     var mercuryAge = mercuryYears(year);
+//     var venusAge = venusYears(years);
 //
 //     $(".year").text(year);
 //
